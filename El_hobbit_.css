@@ -1,0 +1,32 @@
+<style>
+            h1{
+                color:darkgoldenrod;
+                font-size: 70px;
+                font-family: 'Times New Roman', Times, serif;
+                text-align: center;
+                background-color: black;
+                padding:30px;
+            }
+            h3{
+                color:darkblue;
+                font-size: 30px;
+                font-family: 'Times New Roman', Times, serif;
+                text-align: left;
+            }
+            p{
+                color:black;
+                font-size: 20px;
+                font-family: 'Times New Roman', Times, serif;
+                text-align: justify;
+                margin: 110px;
+            }
+            footer{
+                color: white;
+                text-align: center;
+                font-size: 14px;
+            }
+            .image{
+                float:left;
+                margin-right: 30px;
+            }
+        </style>
